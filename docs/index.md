@@ -8,4 +8,4 @@
 
 [Assignment06 Knowledge Document](https://github.com/seattlethistle/seattlethistle-IntroToProg-Python-Mod06/blob/main/Sandra%20D%20Harvie%20-%20Python%20Assignment%2006.docx)
 
-[Assignment06 Python Script](https://github.com/seattlethistle/seattlethistle-IntroToProg-Python-Mod06/blob/main/Assigment06.py}
+[Assignment06 Python Script](https://github.com/seattlethistle/seattlethistle-IntroToProg-Python-Mod06/blob/main/Assigment06.py)
